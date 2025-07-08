@@ -2,4 +2,4 @@
 
 [Link da branch feature/monique](https://github.com/mrk-qa/git-commands-basic/tree/feature/monique)
 
-[Link a raíz do projeto](./)
+[Link a raíz do projeto](../../)
