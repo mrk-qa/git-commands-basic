@@ -1,5 +1,13 @@
 # OUTRO README MONIQUE
 
+<p>
+    <img src="docs\automacao_cypress.png">
+</p>
+
+<p>
+    <img src="docs\desenho_licao_de_casa.png">
+</p>
+
 [Link do meu CPF](docs/data/cpf.txt)
 
 [Link da minha documentação que está na pasta /data](docs/data/documentações.md)
